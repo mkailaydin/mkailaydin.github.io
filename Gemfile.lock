@@ -118,7 +118,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  html-proofer (~> 4.4)
+  html-proofer (~> 4.4.3)
   http_parser.rb (~> 0.6.0)
   jekyll-theme-chirpy!
   tzinfo (>= 1, < 3)
