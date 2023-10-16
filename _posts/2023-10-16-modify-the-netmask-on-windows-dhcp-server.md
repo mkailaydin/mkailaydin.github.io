@@ -1,5 +1,5 @@
 ---
-title: VMware Esxi Root Password Reset
+title: Modify The Netmask on windows DHCP Server
 author: mkailaydin
 date: 2023-10-16 13:30:00 +0800
 categories: [Microsoft Windows, DHCP]
