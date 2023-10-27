@@ -10,9 +10,16 @@ pin: true
 
 ---
 
-## Create Windows Firewall Rule with Powershell for Fortigate FSSO Collector Agent
 
-- Aşağıdaki Script ile ilgili kurallar oluşturulabilir.
+ Aşağıdaki Script ile ilgili kurallar oluşturulabilir.
+
+##
+
+>Script'i daha rahat kopyala yapıştır yapabilmek adına Powershell ISE kullanabilirsiniz
+
+>Aynı Zamanda Powershell Prompt/Powershell ISE Yönetici olarak çalıştırmayı unutmayınız.
+>
+##
 
 ```powershell
 # Inbound Port
@@ -62,4 +69,3 @@ foreach ($portDesc in $outboundPorts) {
 }
 
 ```
-
