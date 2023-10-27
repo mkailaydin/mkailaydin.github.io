@@ -6,7 +6,7 @@ order: 4
 
 Merhaba ben Mikail, Sistem Uzmanıyım. Blog sayfamda vakit buldukça benimle aynı sorunları yaşayanlara yardımcı olabilecek kaynaklara yer vermeye çalışıyorum.
 
->Yorumlarınız ile bir sorunun farklı varyantlarına cevaplar verebilirsiniz .
+>E-Posta ile bir sorunun farklı varyantlarına cevaplar verebilirsiniz .
 >
 >Ya da yanlışlarımı düzeltebilirsiniz.
 
