@@ -2,7 +2,7 @@
 title: Veeam Backup 12 Upgrade and Configure to Hardened Repository
 author: mkailaydin
 date: 2023-03-15 14:50:00 +0800
-categories: [Veeam Backup]
+categories: [Veeam Backup & Replication]
 tags: [Veeam Backup 12, Immutable Repository,]
 pin: true
 
