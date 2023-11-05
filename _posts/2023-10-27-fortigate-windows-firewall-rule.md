@@ -9,17 +9,12 @@ pin: true
 
 
 ---
-
-
  Aşağıdaki Script ile ilgili kurallar oluşturulabilir.
-
-##
 
 >Script'i daha rahat kopyala yapıştır yapabilmek adına Powershell ISE kullanabilirsiniz
 
 >Aynı Zamanda Powershell Prompt/Powershell ISE Yönetici olarak çalıştırmayı unutmayınız.
 >
-##
 
 ```powershell
 # Inbound Port
